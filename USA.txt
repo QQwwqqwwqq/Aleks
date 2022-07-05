@@ -2,3 +2,5 @@ Washington
 New York
 San Francisco
 Detroit
+Chicago
+
